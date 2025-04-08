@@ -1,0 +1,14 @@
+# Following are the requirements that need to be satified for running the application on your computer unit:
+
+Windows or linux or MacOS
+install:
+pip install numpy
+pip install cv2
+pip install time
+pip install ultralytics
+
+For pre-traind YOLO model you can use any of following:
+yolov8n.pt
+yolov9n.pt
+yolov10.pt
+yolov11n.pt
