@@ -32,3 +32,5 @@ this can only be used when we know the size of object already:
 * Track objects across frames and use their motion patterns
 * Changes in object size and position provide distance cues
 * Optical flow can help estimate relative distances
+
+check the req.txt for requriements for running the applcation.
